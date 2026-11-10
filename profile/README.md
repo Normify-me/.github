@@ -1,20 +1,3 @@
-
-<div align="center">
-
-# Normify
-
-### Navigate Regulations. Understand Requirements. Stay Compliant.
-
-**Making regulatory complexity manageable.**
-
-Normify helps companies identify, understand and monitor the laws, regulations, guidelines and standards relevant to their products, processes and business operations.
-
-[Website](https://normify.me) · [GitHub](https://github.com/Normify-me) · [LinkedIn](https://www.linkedin.com/company/normify)
-
-</div>
-
----
-
 ## About Normify
 
 Regulatory requirements are constantly evolving. Keeping track of applicable laws, standards and guidelines is complex, time-consuming and essential for every organization.
